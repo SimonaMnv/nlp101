@@ -1,2 +1,3 @@
 # nlp101
-NLP starterPack
+Use a custom .txt file (format examples in /data)
+
